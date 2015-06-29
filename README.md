@@ -1,0 +1,3 @@
+# RunGalfit
+Learning galfit and sextractor...
+ww
